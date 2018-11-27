@@ -1,0 +1,7 @@
+C:\Users\Pedro\source\repos\Métodos de Ordenação\Métodos de Ordenação\obj\Debug\Métodos de Ordenação.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\Métodos de Ordenação\Métodos de Ordenação\obj\Debug\Métodos de Ordenação.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Métodos de Ordenação\Métodos de Ordenação\bin\Debug\Métodos de Ordenação.exe.config
+C:\Users\Pedro\source\repos\Métodos de Ordenação\Métodos de Ordenação\bin\Debug\Métodos de Ordenação.exe
+C:\Users\Pedro\source\repos\Métodos de Ordenação\Métodos de Ordenação\bin\Debug\Métodos de Ordenação.pdb
+C:\Users\Pedro\source\repos\Métodos de Ordenação\Métodos de Ordenação\obj\Debug\Métodos de Ordenação.exe
+C:\Users\Pedro\source\repos\Métodos de Ordenação\Métodos de Ordenação\obj\Debug\Métodos de Ordenação.pdb
